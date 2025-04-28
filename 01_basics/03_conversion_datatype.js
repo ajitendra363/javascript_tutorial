@@ -41,8 +41,3 @@ comsole.log(str1) // 116
 let str2=1+1+"6"
 comsole.log(str2) // 26
 
-/******************stack vs heap memory allocation*****************/
-
-let a = 10; // stack memory allocation
-let b = a; // stack memory allocation
-cosole.log(a," ",b) // 10
